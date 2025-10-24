@@ -1,0 +1,1 @@
+# topostext-gazetteer-jsonld-format
