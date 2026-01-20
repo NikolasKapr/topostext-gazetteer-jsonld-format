@@ -3,7 +3,7 @@ en_deberta_v3_base_ner_method @ https://huggingface.co/NikosKprl/en_deberta_v3_b
 en_deberta_v3_base_ner_goal @ https://huggingface.co/NikosKprl/en_deberta_v3_base_ner_goal/resolve/main/en_deberta_v3_base_ner_goal-any-py3-none-any.whl
 en_deberta_v3_base_ner_activity @ https://huggingface.co/NikosKprl/en_deberta_v3_base_ner_activity/resolve/main/en_deberta_v3_base_ner_activity-any-py3-none-any.whl
 information-linking-queries
-spacy-transformers==1.4.0
-SPARQLWrapper==2.0.0
-srsly==2.5.1
+spacy-transformers
+SPARQLWrapper
+srsly
 zshot==0.0.11
