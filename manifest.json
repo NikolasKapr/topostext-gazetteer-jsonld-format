@@ -1,0 +1,3714 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nrs.lib.harvard.edu/URN-3:FHCL:4853472:MANIFEST:2",
+  "type": "Manifest",
+  "behavior": [
+    "individuals"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Title"
+        ]
+      },
+      "value": {
+        "none": [
+          "Charta tēs Hellados en hē periechontai hai nēsoi autēs [kai] meros tōn eis tēn Eurōpēn [kai] Mikran Asian polyarithmōn apoikiōn autēs"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rēgas Velestinlēs 1757?-1798 creator"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Place of Origin"
+        ]
+      },
+      "value": {
+        "none": [
+          "au Vienna Franz Müller 1797"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Publisher"
+        ]
+      },
+      "value": {
+        "none": [
+          "Franz Müller"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1797"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Places"
+        ]
+      },
+      "value": {
+        "none": [
+          "Vienna"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Repository"
+        ]
+      },
+      "value": {
+        "none": [
+          "Harvard Map Collection"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Institution"
+        ]
+      },
+      "value": {
+        "none": [
+          "Harvard University"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Local"
+        ]
+      },
+      "value": {
+        "none": [
+          "<a href='http://id.lib.harvard.edu/aleph/012733465/catalog'>http://id.lib.harvard.edu/aleph/012733465/catalog</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Accessed"
+        ]
+      },
+      "value": {
+        "none": [
+          "12 June 2026"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "none": [
+      "Rēgas. Charta tēs Hellados en hē periechontai hai nēsoi autēs [kai] meros tōn eis tēn Eurōpēn [kai] Mikran Asian polyarithmōn apoikiōn autēs, 1797. Harvard Map Collection digital maps. Harvard Map Collection digital maps. Harvard Map Collection digital maps. http://id.lib.harvard.edu/aleph/012733465/catalog."
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Provided by Harvard University under these terms: <a href=https://nrs.lib.harvard.edu/urn-3:hul.ois:hlviewerterms>https://nrs.lib.harvard.edu/urn-3:hul.ois:hlviewerterms</a>"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "http://example.org/provider",
+      "type": "Agent",
+      "logo": [
+        {
+          "id": "https://nrs.harvard.edu/URN-3:HUL:HARVARDSHIELD",
+          "type": "Image"
+        }
+      ],
+      "label": {
+        "none": [
+          ""
+        ]
+      }
+    }
+  ],
+  "start": {
+    "id": "https://nrs.lib.harvard.edu/URN-3:FHCL:4853472:MANIFEST:2/canvas/canvas-drs:24146534",
+    "type": "Canvas"
+  },
+  "items": [
+    {
+      "id": "https://nrs.lib.harvard.edu/URN-3:FHCL:4853472:MANIFEST:2/canvas/canvas-drs:24146534",
+      "type": "Canvas",
+      "height": 26902,
+      "width": 27207,
+      "label": {
+        "none": [
+          "Harvard Map Collection, G6810_1797_R4_stitched"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://mps.lib.harvard.edu/assets/images/drs:24146534/full/,250/0/default.jpg",
+          "type": "Image"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nrs.lib.harvard.edu/URN-3:FHCL:4853472:MANIFEST:2/canvas/canvas-drs:24146534/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nrs.lib.harvard.edu/URN-3:FHCL:4853472:MANIFEST:2/annotation/anno-drs:24146534",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nrs.lib.harvard.edu/URN-3:FHCL:4853472:MANIFEST:2/canvas/canvas-drs:24146534",
+              "body": {
+                "id": "https://mps.lib.harvard.edu/assets/images/drs:24146534/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 26902,
+                "width": 27207,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://mps.lib.harvard.edu/assets/images/drs:24146534",
+                    "@type": "Service",
+                    "@context": "https://iiif.io/api/image/2/context.json",
+                    "profile": "https://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+                [
+          {
+            "id": "d40ad04c-8043-41fe-bdee-2c5a942fe4ce",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19058.85900035934,24797.070695635954,56.65492405041368,50.388538046256144"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T11:15:57.351Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T11:15:57.066Z",
+            "body": [
+              {
+                "created": "2026-01-28T11:15:59.732Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:16:03.480Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:city_once_had_walls",
+                  "color": "#24751b",
+                  "id": "rigas:legend/city_once_had_walls"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:16:13.440Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:16:49.350Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p><code>feature_id=knossos_001</code><br/></p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "69a5cc96-a149-4a07-8b5f-c098a30572d0",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "SvgSelector",
+                "value": "<svg><polygon points=\"19127.641984845,24797.005502710384 19120.751197608173,24842.735027853523 19094.143740678406,24850.93177352029 19089.264789943518,24890.077290435067 19276.05998920589,24885.38301799065 19278.560572202834,24841.36664457245 19310.991790488955,24841.342209156715 19313.370120046562,24812.000734649075 19302.25200588785,24806.939873698157 19168.419310276557,24806.125353476986\" /></svg>"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T11:17:08.802Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T11:17:08.482Z",
+            "body": [
+              {
+                "created": "2026-01-28T11:17:27.367Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:17:32.533Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:multiple_toponym_forms",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/multiple_toponym_forms"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:17:40.259Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:21:11.336Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "assess:time/antiquity",
+                  "color": "#fb5734",
+                  "id": "rigas:assess/time/antiquity"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:18:31.812Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p><code>feature_id=knossos_001</code><br/>name_gr: Κνωσσός |  Κυνώσα<br/>name_lat:  Knossos | Kinosa<br/></p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              },
+              {
+                "created": "2026-02-19T06:04:34.695Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "geotagging",
+                "value": {
+                  "type": "Feature",
+                  "properties": {
+                    "title": "Knosos/Col. Iulia Nobilis Cnosos",
+                    "description": "A major ancient settlement of Crete located some 5 km southeast of Heraklion, Knossos was occupied from the Neolithic period to the time of the Roman empire."
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      25.163106,
+                      35.297847
+                    ]
+                  },
+                  "id": "https://pleiades.stoa.org/places/589872"
+                },
+                "format": "application/json"
+              }
+            ]
+          },
+          {
+            "id": "24bb26b2-5829-4b9a-a63b-71499e2984b0",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19070.786164411016,24886.70426888597,374.7011906224943,56.37930854113074"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T11:22:25.203Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T11:22:21.065Z",
+            "body": [
+              {
+                "created": "2026-01-28T11:22:52.764Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:rigas_commentary",
+                  "color": "#2a93f2",
+                  "id": "rigas:inscr/rigas_commentary"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:23:02.883Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "commentary:mythological",
+                  "color": "#2a93f2",
+                  "id": "rigas:commentary/mythological"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:23:34.365Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:23:57.166Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=knossos_001</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "60564a77-7f7f-42d2-bdfb-8e7461b64dfb",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:18483.26489023783,25260.612117434088,63.121857250091125,63.73536262278503"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T11:53:46.256Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T11:53:45.853Z",
+            "body": [
+              {
+                "created": "2026-01-28T11:53:53.239Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:53:57.446Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:city_once_had_walls",
+                  "color": "#24751b",
+                  "id": "rigas:legend/city_once_had_walls"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:54:20.187Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:56:18.163Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=gortyn_002</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "0aaf94b0-2a70-4111-af0e-d3151a06ae43",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "SvgSelector",
+                "value": "<svg><polygon points=\"18523.936056784714,25218.238476197777 18522.07306665645,25258.35099036765 18556.11726277908,25267.015576034126 18547.875019004223,25324.667066093247 18765.18888773038,25319.2102529029 18758.975495553088,25290.016575612433 18700.54926263566,25281.059218217957 18697.87008250029,25233.841970440055 18580.784383083497,25214.03575352817\" /></svg>"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T11:56:52.277Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T11:56:51.903Z",
+            "body": [
+              {
+                "created": "2026-01-28T11:56:59.530Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:57:06.860Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:57:11.602Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:multiple_toponym_forms",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/multiple_toponym_forms"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:57:21.422Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=gortyn_002<br/>name_gr: Γόρτυν | Γουρτίνα<br/>name_lat: Gortyn | Gortina</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              },
+              {
+                "created": "2026-02-19T05:58:14.986Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "geotagging",
+                "value": {
+                  "id": "http://www.wikidata.org/entity/Q1136193",
+                  "properties": {
+                    "title": "Gortyn",
+                    "description": "ancient city in Crete, Greece"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      24.949458,
+                      35.060067
+                    ]
+                  }
+                },
+                "format": "application/json"
+              }
+            ]
+          },
+          {
+            "id": "b2d071b5-1b46-4828-be5b-d391c10f68dc",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:18588.692444900043,25512.03029518969,44.141596059173025,81.50753976250417"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T11:58:18.306Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T11:58:23.664Z",
+            "body": [
+              {
+                "created": "2026-01-28T11:58:27.449Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:58:41.667Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:town",
+                  "color": "#24751b",
+                  "id": "rigas:legend/town"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:58:45.206Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:59:25.561Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=leben_003</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "00754d27-0bf6-491c-8819-d6543107eb69",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "SvgSelector",
+                "value": "<svg><polygon points=\"18415.058988441997,25542.36922096629 18587.8528987414,25544.67269863902 18581.934865322928,25594.623508855224 18405.738936613114,25579.890641578564\" /></svg>"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T11:59:33.604Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T11:59:33.266Z",
+            "body": [
+              {
+                "created": "2026-01-28T11:59:41.092Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T11:59:54.053Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:00:08.611Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=leben_003</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "54c473d1-a54e-4266-aa64-69499c2cfc01",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19084.794773734724,25497.570937806133,55.55706897093842,69.99873080685211"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:00:30.145Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:00:29.839Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:00:34.068Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:00:38.101Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:city_without_walls",
+                  "color": "#24751b",
+                  "id": "rigas:legend/city_without_walls"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:00:45.754Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:01:09.067Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=inathos_004</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "6781844c-b222-468d-8d5a-79d37b98b016",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "SvgSelector",
+                "value": "<svg><polygon points=\"19041.26464002254,25446.861350740135 19039.544456829863,25489.42885038315 19165.34315764849,25494.218728848384 19167.470044151687,25453.98322595775\" /></svg>"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:01:18.724Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:01:18.258Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:01:31.959Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:01:32.759Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:02:01.390Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=inathos_004</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "6848a54c-53c5-4b9f-8837-260e023b1e1a",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19451.152965832363,25354.49040723336,27.454652092368633,25.34506812906693"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:02:56.201Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:02:55.908Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:03:02.339Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:03:09.066Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:village",
+                  "color": "#24751b",
+                  "id": "rigas:legend/village"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:03:14.871Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:03:49.625Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=kandon_005</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "2f13c605-3397-4b3a-b49b-c500fa858c0b",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "SvgSelector",
+                "value": "<svg><polygon points=\"19329.67231399533,25311.29494786114 19319.57791404289,25354.516307905833 19516.82167656721,25352.192975075155 19517.68535620122,25310.554319194536\" /></svg>"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:04:00.275Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:03:59.964Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:04:08.491Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:04:11.759Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:04:29.419Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=kandon_005</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "cbf41e91-5bfc-433b-b840-0958fc0ef1e5",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:20112.81771964751,25131.209153200773,49.58083201472982,69.40567919226669"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:05:24.788Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:05:24.345Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:05:35.531Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:05:36.130Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:city_once_had_walls",
+                  "color": "#24751b",
+                  "id": "rigas:legend/city_once_had_walls"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:05:43.897Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:06:13.099Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=praisos_006</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "9f40799f-0f38-4a13-9a75-01da7637ed53",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "SvgSelector",
+                "value": "<svg><polygon points=\"20172.472668321345,25149.68457594978 20167.249125149992,25186.04778650492 20340.405700734158,25190.534484997723 20352.97971993609,25161.646037263978\" /></svg>"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:06:22.159Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:06:21.734Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:06:30.995Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:06:39.321Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:06:40.554Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=praisos_006<br/>name_gr: Πραισός<br/>name_lat: Praisos</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              },
+              {
+                "created": "2026-02-19T06:05:21.931Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "geotagging",
+                "value": {
+                  "type": "Feature",
+                  "properties": {
+                    "title": "Praisos",
+                    "description": "Praisos is an ancient settlement of eastern Crete occupied from the Late Minoan period until ca. 150 BC."
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      26.089695,
+                      35.141666
+                    ]
+                  },
+                  "id": "https://pleiades.stoa.org/places/590011"
+                },
+                "format": "application/json"
+              }
+            ]
+          },
+          {
+            "id": "48e12841-0b1c-4483-b471-c38665088173",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "SvgSelector",
+                "value": "<svg><polygon points=\"20150.925842366072,24903.28920966292 20316.594231718187,24911.088360643967 20308.787301426135,24943.17371896808 20142.81830637944,24939.015012259562\" /></svg>"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:11:23.815Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:11:22.960Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:11:39.042Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:11:42.965Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:12:03.404Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=kitaion_007<br/>name_gr: Κυταίον<br/>name_lat: Kitaion</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              },
+              {
+                "created": "2026-02-19T06:05:47.489Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "geotagging",
+                "value": {
+                  "type": "Feature",
+                  "properties": {
+                    "title": "Kytaion?",
+                    "description": "An ancient place, cited: BAtlas 60 C2 Kytaion?"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      24.878375,
+                      35.407779
+                    ]
+                  },
+                  "id": "https://pleiades.stoa.org/places/589889"
+                },
+                "format": "application/json"
+              }
+            ]
+          },
+          {
+            "id": "d202b66e-f6a9-417f-8f94-9af0cd88fe8e",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:20172.714180353916,24952.30205723793,119.60947551732534,36.20775550842882"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:12:07.409Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:12:07.100Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:12:14.091Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:12:22.016Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:12:43.903Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=setia_008<br/>name_gr: Σέτια<br/>name_lat: Setia</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "2a18fd08-1fa1-400d-9f93-1b5711fb158f",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:20307.64722244702,24815.270231731556,43.07675959633343,83.40944921895425"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:12:48.809Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:12:51.571Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:12:57.584Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:13:53.964Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:city_without_walls",
+                  "color": "#24751b",
+                  "id": "rigas:legend/city_without_walls"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:15:09.073Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "meta:needs_review",
+                  "color": "#742327",
+                  "id": "rigas:meta/needs_review"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:15:13.448Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=leopetra_009</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              },
+              {
+                "created": "2026-01-28T12:15:58.782Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              }
+            ]
+          },
+          {
+            "id": "aa4fe7eb-c27a-4f95-940a-8e3e0dd15870",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "SvgSelector",
+                "value": "<svg><polygon points=\"20088.435226224876,24761.463844470145 20085.619628562843,24806.132593178147 20283.45029089401,24805.82639800711 20295.221711166258,24785.13269360797\" /></svg>"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:15:23.220Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:15:22.515Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:15:36.470Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:15:40.811Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:15:45.172Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=leopetra_009<br/>name_gr: Λεόπετρα<br/>name_lat: Leopetra</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "60daf2dc-11f4-4fcd-887a-617101b1caca",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19496.858469407904,24931.644625508106,45.89881549284837,51.180290543459705"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:17:03.249Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:17:02.922Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:17:06.909Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:17:11.501Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:castle",
+                  "color": "#24751b",
+                  "id": "rigas:legend/castle"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:17:22.195Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:17:50.558Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=olous_010</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "37520641-6ec2-4581-b4a1-5e1a4882159a",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "SvgSelector",
+                "value": "<svg><polygon points=\"19502.504876735322,24879.123451381547 19488.484070431045,24917.405757998335 19613.02738825749,24919.781798691507 19623.024592368678,24888.695328799116\" /></svg>"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:17:59.059Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:17:58.736Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:18:05.344Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:18:13.069Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:18:26.749Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=olous_010<br/>name_gr: Ολούς<br/>name_lat: Olous</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "acb23e3d-80fa-454f-aca3-944e7c2c05fb",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:18471.352841934367,24406.91332342053,42.20221564743042,59.504138136926485"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:19:16.498Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:19:16.156Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:19:19.743Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:19:23.699Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:city_with_walls",
+                  "color": "#24751b",
+                  "id": "rigas:legend/city_with_walls"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:19:29.449Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:20:10.927Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=kandia_011</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "e0607e0c-60fd-4b66-8993-6a57a8d31449",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "SvgSelector",
+                "value": "<svg><polygon points=\"18396.494402566714,24485.766372188093 18397.593450386732,24515.28091721152 18604.19969872561,24518.729198534686 18592.421026321386,24489.37658585158\" /></svg>"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:20:21.330Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:20:21.010Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:20:33.314Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:20:41.307Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:20:52.320Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=kandia_011<br/>name_gr: ΚΑΝΔΙΑ<br/>name_lat: Kandia</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "081a935c-c876-4148-bf34-a71ecdeacd18",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:18380.60797934812,24532.800682602196,168.75254111071263,31.444191301528917"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:21:10.678Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:21:36.975Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:22:05.606Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:22:08.682Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:22:37.972Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "meta:needs_review",
+                  "color": "#742327",
+                  "id": "rigas:meta/needs_review"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:22:39.801Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=mitio_012<br/>name_gr: ΜΗΤΙΩ<br/>name_lat: MITIO</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "ed3e0bbf-4b23-46bd-97de-8c583ded0a38",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19064.11728744968,24633.828184593516,40.73301169165279,73.48509304159234"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:23:08.296Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:23:07.976Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:23:13.779Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:23:17.822Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:town",
+                  "color": "#24751b",
+                  "id": "rigas:legend/town"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:23:23.662Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:24:16.589Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=heracleion_013</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "ae14e072-e960-4cc4-8a32-9e2443d29923",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "SvgSelector",
+                "value": "<svg><polygon points=\"18824.610673161988,24645.894746403428 18814.2567374188,24677.243928304553 19048.8343802536,24682.34442208744 19054.524419738478,24658.397853268565\" /></svg>"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:24:25.074Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:24:24.756Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:24:34.545Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:24:39.432Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:24:46.164Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=heracleion_013<br/>name_gr: Ηράκλειον<br/>name_lat: Heracleion</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              },
+              {
+                "created": "2026-02-19T06:07:57.981Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "geotagging",
+                "value": {
+                  "type": "Feature",
+                  "score": 18.664547,
+                  "properties": {
+                    "title": "Iráklion",
+                    "index_id": "13286844",
+                    "index_role": "parent",
+                    "place_id": 4741137,
+                    "child_place_ids": [
+                      6373104,
+                      82542,
+                      14158304,
+                      14158305,
+                      6368817,
+                      12427673,
+                      6368817,
+                      14158304,
+                      14158305,
+                      82542,
+                      12427673,
+                      6368817,
+                      13665850,
+                      14158304,
+                      14158305,
+                      82542,
+                      7686169,
+                      7686637
+                    ],
+                    "dataset": "tgn_filtered_01",
+                    "fclasses": [
+                      "P"
+                    ],
+                    "placetypes": [
+                      "inhabited place",
+                      "city",
+                      "port"
+                    ],
+                    "variants": [
+                      "Candia",
+                      "Candie",
+                      "Heracleum",
+                      "Heracleum Cretae",
+                      "Heraclium",
+                      "Herakleion",
+                      "Heraklion",
+                      "Herákleion",
+                      "Iraclion",
+                      "Iraklio",
+                      "Iraklion",
+                      "Irákleio",
+                      "Irákleion",
+                      "Kandia",
+                      "Khandaq",
+                      "Khandax",
+                      "Megalo Kastro",
+                      "Megalokastro",
+                      "Megalokastron",
+                      "Rabdh el Khandak",
+                      "Ērakleion"
+                    ],
+                    "links": [
+                      {
+                        "identifier": "tgn:7010879",
+                        "type": "closeMatch"
+                      }
+                    ],
+                    "timespans": [],
+                    "minmax": [],
+                    "ccodes": [
+                      "GR"
+                    ]
+                  },
+                  "geometry": {
+                    "coordinates": [
+                      25.130556,
+                      35.325
+                    ],
+                    "type": "Point"
+                  },
+                  "id": "https://whgazetteer.org/places/13286844/portal"
+                },
+                "format": "application/json"
+              }
+            ]
+          },
+          {
+            "id": "fddcab44-430a-45f8-ad7a-a599e50ae2bc",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:20817.272543731804,25126.969475776063,20.298991628678777,36.96610472890461"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:25:01.330Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:25:01.005Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:25:30.451Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:25:35.192Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:village",
+                  "color": "#24751b",
+                  "id": "rigas:legend/village"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:25:39.277Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:25:40.586Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=ieron_014</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "1bb3805b-12d3-42dc-a0ec-f8feba120c45",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:20871.76725497171,25117.155762595416,105.26695232613201,32.071090181092586"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:25:49.179Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:25:48.862Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:26:01.717Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:26:01.902Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:26:09.633Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=ieron_014<br/>name_gr: Ιερόν<br/>name_lat: Ieron</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "0b18382f-4ca8-4810-b3bb-bd552cd006f3",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:20754.790799915314,24932.239095682642,68.11952770781136,76.75210342245555"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:26:12.903Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:26:12.604Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:26:17.620Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:26:35.449Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:city_without_walls",
+                  "color": "#24751b",
+                  "id": "rigas:legend/city_without_walls"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:26:43.866Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:27:04.317Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=palaiokastron_015</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "ff8e8042-0b45-4912-ad20-96e3cbdc2b8c",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:20519.39123248841,25008.468661388124,296.298576715104,34.394423011766776"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:27:08.198Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:27:07.891Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:27:21.415Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:27:35.230Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:27:37.335Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=palaiokastron_015<br/>name_gr: Παλιόκαστρον<br/>name_lat: Paliokastron</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "e0b0ffd5-0a5e-458a-a23a-496c0d421959",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:20573.618439059825,25415.936450327095,30.10510363502908,32.16536599732717"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:28:00.730Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:28:00.428Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:28:03.745Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:28:08.877Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:village",
+                  "color": "#24751b",
+                  "id": "rigas:legend/village"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:28:15.439Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:28:33.454Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=erythraia_016</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "e23dc677-632f-4cd4-8307-5a9491c3b0d0",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:20410.353438794336,25344.64230985921,213.6201484201374,39.02261359584372"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:28:36.554Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:28:36.252Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:28:44.044Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:28:58.184Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:29:01.477Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=erythraia_016<br/>name_gr: Ερυθραία<br/>name_lat:  Erythraia</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "40ed8999-ebd3-4a8e-a654-8891a86412ed",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19927.340703088,25048.75327338206,42.925582259751536,27.866679261314857"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:29:15.762Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:29:15.458Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:29:21.134Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:29:27.048Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:village",
+                  "color": "#24751b",
+                  "id": "rigas:legend/village"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:29:36.580Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:29:57.683Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=arkadi_017</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "9e51f4f9-0363-42f7-9f87-c0ea926bd30a",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19980.01438299329,25003.263623231225,147.29646493343535,37.66063040092922"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:30:01.710Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:30:00.887Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:30:14.637Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:30:15.978Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:30:17.370Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=arkadi_017<br/>name_gr: Αρκάδη<br/>name_lat: Arkadi</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "19bc7ce5-ad66-4573-9cfb-8fefeae53d14",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:18800.4480103428,24908.884942969577,70.60426150511194,59.03775599283472"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:30:33.516Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:30:33.159Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:30:39.120Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:30:45.103Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:city_without_walls",
+                  "color": "#24751b",
+                  "id": "rigas:legend/city_without_walls"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:31:08.515Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:31:30.732Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=kitinos_018</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "575899dc-e6de-4981-8211-27edbc6692bc",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:18699.80211282055,24981.35536092718,196.1892819390523,33.90373497935434"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:31:35.650Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:31:35.315Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:31:43.582Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:31:52.388Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:32:06.222Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=kitinos_018<br/>name_gr: Κύτινος<br/>name_lat: Kitinos</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "05508b29-c41d-4852-a908-c1d326152b22",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19061.15465723366,25067.27246199515,25.19560333401023,29.035613350693893"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:32:10.872Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:32:10.571Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:32:25.398Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:32:30.610Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:village",
+                  "color": "#24751b",
+                  "id": "rigas:legend/village"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:32:33.998Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:32:36.173Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=lasiti_019</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "c6f5af28-1915-445f-b0b1-9a8364b46dd5",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:18914.21447633561,25074.278724465057,140.4547132393709,35.40451887398012"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:32:39.494Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:32:38.903Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:32:58.302Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:33:05.754Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:33:07.943Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=lasiti_019<br/>name_gr: Λασίτι<br/>name_lat: Lasiti</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              },
+              {
+                "created": "2026-02-19T06:08:47.432Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "geotagging",
+                "value": {
+                  "id": "http://www.wikidata.org/entity/Q210450",
+                  "properties": {
+                    "title": "Lasithi Regional Unit",
+                    "description": "regional unit of Crete, Greece"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      25.833333333,
+                      35.083333333
+                    ]
+                  }
+                },
+                "format": "application/json"
+              }
+            ]
+          },
+          {
+            "id": "0fa90997-57c6-474d-827c-9d6127ca5bf3",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19581.716371834667,24603.753897158582,38.16660423806388,35.02933017379837"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:33:55.999Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:33:55.670Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:34:01.095Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:34:04.668Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:castle",
+                  "color": "#24751b",
+                  "id": "rigas:legend/castle"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:34:28.321Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:34:29.830Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=spinaloga_020</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "71a87bc5-ca79-4c86-b644-46b227da717d",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19628.874999680276,24571.28975015336,349.2506524375458,43.355041935807094"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T12:34:36.841Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T12:34:36.421Z",
+            "body": [
+              {
+                "created": "2026-01-28T12:34:52.957Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:35:00.070Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:39:44.208Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "assess:spatial/approximate",
+                  "color": "#c95992",
+                  "id": "rigas:assess/spatial/approximate"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:39:48.531Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "assess:certainty/high",
+                  "color": "#c95992",
+                  "id": "rigas:assess/certainty/high"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:39:55.825Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T12:40:02.728Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=spinaloga_020<br/>name_gr: Σπίνα λόνγγα<br/>name_lat: Spina longa</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "ee894af8-ec1f-4425-bc18-bc20fbfa63fe",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19188.79690931319,24542.582415477948,40.206417996098025,71.52482121845969"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T19:22:42.233Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T19:22:41.817Z",
+            "body": [
+              {
+                "created": "2026-01-28T19:22:47.994Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:22:52.631Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:town",
+                  "color": "#24751b",
+                  "id": "rigas:legend/town"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:22:59.762Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:24:20.643Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=likastos_021</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "42b0f760-a01a-4378-a383-f633dc138030",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19231.60091413568,24539.667001472346,206.85754962266583,87.02680154152404"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T19:24:32.547Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T19:24:40.277Z",
+            "body": [
+              {
+                "created": "2026-01-28T19:24:47.846Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:24:54.050Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:multiple_toponym_forms",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/multiple_toponym_forms"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:25:01.235Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:26:48.702Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=likastos_021<br/>name_gr: Λύκαστος | Μάγλια<br/>name_lat: Likastos | Maglia</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "65ecb916-24b0-406f-8710-1bc007d32e91",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19556.39090329565,25022.055821619124,30.461741421364422,26.12850924387385"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T19:27:27.982Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T19:27:27.567Z",
+            "body": [
+              {
+                "created": "2026-01-28T19:27:35.088Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:27:36.466Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:village",
+                  "color": "#24751b",
+                  "id": "rigas:legend/village"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:27:43.100Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:29:20.193Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=kamara_022<br/></p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "e3197fc7-533b-4a51-9140-d7b7c3cfbf6f",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19462.4000070087,25037.54743661917,145.79795942016062,37.299110859086795"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T19:29:30.946Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T19:29:30.600Z",
+            "body": [
+              {
+                "created": "2026-01-28T19:29:37.172Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:29:41.933Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:multiple_toponym_forms",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/multiple_toponym_forms"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:29:48.069Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:30:03.178Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=kamara_022<br/>name_gr: Καμάρα<br/>name_lat: Kamara</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "7a148bda-e055-401a-ae12-9b5f0cc946cc",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19489.009426662815,25182.870758768662,68.54874964395276,70.298628954577"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T19:30:48.366Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T19:30:47.816Z",
+            "body": [
+              {
+                "created": "2026-01-28T19:31:35.159Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "entity:settlement",
+                  "color": "#24751b",
+                  "id": "rigas:entity/settlement"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:31:39.906Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "legend:city_without_walls",
+                  "color": "#24751b",
+                  "id": "rigas:legend/city_without_walls"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:31:49.248Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:31:49.671Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=palaiokastron_023</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "00ed8583-855b-438d-b948-b22f87f574b5",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19419.815146512316,25135.742545660672,317.84210591918236,51.751104563332774"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T19:31:57.034Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T19:31:56.682Z",
+            "body": [
+              {
+                "created": "2026-01-28T19:32:55.380Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:33:06.648Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:multiple_toponym_forms",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/multiple_toponym_forms"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:33:13.228Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:33:22.967Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=palaiokastron_023<br/>name_gr: Παλαιόκαστρον<br/>name_lat: Palaiokastron</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          },
+          {
+            "id": "48b0be48-7439-45b2-8bdf-6346a8e2fdfb",
+            "target": {
+              "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+              "type": "SpecificResource",
+              "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:19353.165630205393,25224.599979918377,126.44128757558792,43.54253591367524"
+              }
+            },
+            "motivation": "commenting",
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "type": "Annotation",
+            "created": "2026-01-28T19:33:28.772Z",
+            "creator": {
+              "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+              "name": "Anna Aslanoglou",
+              "avatar": "AnnaAslanoglou"
+            },
+            "modified": "2026-01-28T19:33:28.399Z",
+            "body": [
+              {
+                "created": "2026-01-28T19:33:51.192Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "inscr:toponym",
+                  "color": "#51bc2b",
+                  "id": "rigas:inscr/toponym"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:34:00.134Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "feature:instance_id",
+                  "color": "#e3bd63",
+                  "id": "rigas:link/feature_instance_id"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:34:13.898Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "tagging",
+                "value": {
+                  "label": "meta:needs_review",
+                  "color": "#742327",
+                  "id": "rigas:meta/needs_review"
+                },
+                "format": "application/json"
+              },
+              {
+                "created": "2026-01-28T19:34:15.889Z",
+                "creator": {
+                  "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                  "name": "Anna Aslanoglou"
+                },
+                "purpose": "commenting",
+                "value": "<p>feature_id=liktos_024</p>",
+                "type": "TextualBody",
+                "format": "text/html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
