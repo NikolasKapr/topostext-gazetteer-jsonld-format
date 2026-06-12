@@ -1,0 +1,262 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nrs.lib.harvard.edu/URN-3:FHCL:4853472:MANIFEST:2",
+  "type": "Manifest",
+  "behavior": [
+    "individuals"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Title"
+        ]
+      },
+      "value": {
+        "none": [
+          "Charta tēs Hellados en hē periechontai hai nēsoi autēs [kai] meros tōn eis tēn Eurōpēn [kai] Mikran Asian polyarithmōn apoikiōn autēs"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rēgas Velestinlēs 1757?-1798 creator"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Place of Origin"
+        ]
+      },
+      "value": {
+        "none": [
+          "au Vienna Franz Müller 1797"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Publisher"
+        ]
+      },
+      "value": {
+        "none": [
+          "Franz Müller"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1797"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Places"
+        ]
+      },
+      "value": {
+        "none": [
+          "Vienna"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Repository"
+        ]
+      },
+      "value": {
+        "none": [
+          "Harvard Map Collection"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Institution"
+        ]
+      },
+      "value": {
+        "none": [
+          "Harvard University"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Local"
+        ]
+      },
+      "value": {
+        "none": [
+          "<a href='http://id.lib.harvard.edu/aleph/012733465/catalog'>http://id.lib.harvard.edu/aleph/012733465/catalog</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Accessed"
+        ]
+      },
+      "value": {
+        "none": [
+          "12 June 2026"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "none": [
+      "Rēgas. Charta tēs Hellados en hē periechontai hai nēsoi autēs [kai] meros tōn eis tēn Eurōpēn [kai] Mikran Asian polyarithmōn apoikiōn autēs, 1797. Harvard Map Collection digital maps. Harvard Map Collection digital maps. Harvard Map Collection digital maps. http://id.lib.harvard.edu/aleph/012733465/catalog."
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Provided by Harvard University under these terms: <a href=https://nrs.lib.harvard.edu/urn-3:hul.ois:hlviewerterms>https://nrs.lib.harvard.edu/urn-3:hul.ois:hlviewerterms</a>"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "http://example.org/provider",
+      "type": "Agent",
+      "logo": [
+        {
+          "id": "https://nrs.harvard.edu/URN-3:HUL:HARVARDSHIELD",
+          "type": "Image"
+        }
+      ],
+      "label": {
+        "none": [
+          ""
+        ]
+      }
+    }
+  ],
+  "start": {
+    "id": "https://nrs.lib.harvard.edu/URN-3:FHCL:4853472:MANIFEST:2/canvas/canvas-drs:24146534",
+    "type": "Canvas"
+  },
+  "items": [
+    {
+      "id": "https://nrs.lib.harvard.edu/URN-3:FHCL:4853472:MANIFEST:2/canvas/canvas-drs:24146534",
+      "type": "Canvas",
+      "height": 26902,
+      "width": 27207,
+      "label": {
+        "none": [
+          "Harvard Map Collection, G6810_1797_R4_stitched"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://mps.lib.harvard.edu/assets/images/drs:24146534/full/,250/0/default.jpg",
+          "type": "Image"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://nrs.lib.harvard.edu/URN-3:FHCL:4853472:MANIFEST:2/canvas/canvas-drs:24146534/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://nrs.lib.harvard.edu/URN-3:FHCL:4853472:MANIFEST:2/annotation/anno-drs:24146534",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://nrs.lib.harvard.edu/URN-3:FHCL:4853472:MANIFEST:2/canvas/canvas-drs:24146534",
+              "body": {
+                "id": "https://mps.lib.harvard.edu/assets/images/drs:24146534/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 26902,
+                "width": 27207,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://mps.lib.harvard.edu/assets/images/drs:24146534",
+                    "@type": "Service",
+                    "@context": "https://iiif.io/api/image/2/context.json",
+                    "profile": "https://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://nrs.lib.harvard.edu/URN-3:FHCL:4853472:MANIFEST:2/canvas/canvas-drs:24146534/recogito/annotations/page/p1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "26d07570-6eb8-4c05-b873-89cbfd8b43f1",
+              "target": {
+                "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:4853472:MANIFEST:2/canvas/canvas-drs:24146534",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:15319.997052914041,12148.078077166389,439.7435036432489,228.1940481592792"
+                }
+              },
+              "motivation": "commenting",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "type": "Annotation",
+              "created": "2026-06-12T13:16:35.932Z",
+              "creator": {
+                "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                "name": "Anna Aslanoglou",
+                "avatar": "AnnaAslanoglou"
+              },
+              "modified": "2026-06-12T13:16:34.994Z",
+              "body": [
+                {
+                  "created": "2026-06-12T13:16:41.023Z",
+                  "creator": {
+                    "id": "a44c1b8f-d285-4475-9e6c-051f7eee5a4a",
+                    "name": "Anna Aslanoglou"
+                  },
+                  "purpose": "tagging",
+                  "value": {
+                    "label": "entity:settlement",
+                    "color": "#24751b",
+                    "id": "rigas:entity/settlement"
+                  },
+                  "format": "application/json"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
