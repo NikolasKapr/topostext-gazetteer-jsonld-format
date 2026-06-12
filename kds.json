@@ -115,7 +115,7 @@
         {
             "id": "d40ad04c-8043-41fe-bdee-2c5a942fe4ce",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -192,7 +192,7 @@
         {
             "id": "69a5cc96-a149-4a07-8b5f-c098a30572d0",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "SvgSelector",
@@ -306,7 +306,7 @@
         {
             "id": "24bb26b2-5829-4b9a-a63b-71499e2984b0",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -383,7 +383,7 @@
         {
             "id": "60564a77-7f7f-42d2-bdfb-8e7461b64dfb",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -460,7 +460,7 @@
         {
             "id": "0aaf94b0-2a70-4111-af0e-d3151a06ae43",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "SvgSelector",
@@ -559,7 +559,7 @@
         {
             "id": "b2d071b5-1b46-4828-be5b-d391c10f68dc",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -636,7 +636,7 @@
         {
             "id": "00754d27-0bf6-491c-8819-d6543107eb69",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "SvgSelector",
@@ -698,7 +698,7 @@
         {
             "id": "54c473d1-a54e-4266-aa64-69499c2cfc01",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -775,7 +775,7 @@
         {
             "id": "6781844c-b222-468d-8d5a-79d37b98b016",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "SvgSelector",
@@ -837,7 +837,7 @@
         {
             "id": "6848a54c-53c5-4b9f-8837-260e023b1e1a",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -914,7 +914,7 @@
         {
             "id": "2f13c605-3397-4b3a-b49b-c500fa858c0b",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "SvgSelector",
@@ -976,7 +976,7 @@
         {
             "id": "cbf41e91-5bfc-433b-b840-0958fc0ef1e5",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -1053,7 +1053,7 @@
         {
             "id": "9f40799f-0f38-4a13-9a75-01da7637ed53",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "SvgSelector",
@@ -1139,7 +1139,7 @@
         {
             "id": "48e12841-0b1c-4483-b471-c38665088173",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "SvgSelector",
@@ -1225,7 +1225,7 @@
         {
             "id": "d202b66e-f6a9-417f-8f94-9af0cd88fe8e",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -1288,7 +1288,7 @@
         {
             "id": "2a18fd08-1fa1-400d-9f93-1b5711fb158f",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -1379,7 +1379,7 @@
         {
             "id": "aa4fe7eb-c27a-4f95-940a-8e3e0dd15870",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "SvgSelector",
@@ -1441,7 +1441,7 @@
         {
             "id": "60daf2dc-11f4-4fcd-887a-617101b1caca",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -1518,7 +1518,7 @@
         {
             "id": "37520641-6ec2-4581-b4a1-5e1a4882159a",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "SvgSelector",
@@ -1580,7 +1580,7 @@
         {
             "id": "acb23e3d-80fa-454f-aca3-944e7c2c05fb",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -1657,7 +1657,7 @@
         {
             "id": "e0607e0c-60fd-4b66-8993-6a57a8d31449",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "SvgSelector",
@@ -1719,7 +1719,7 @@
         {
             "id": "081a935c-c876-4148-bf34-a71ecdeacd18",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -1796,7 +1796,7 @@
         {
             "id": "ed3e0bbf-4b23-46bd-97de-8c583ded0a38",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -1873,7 +1873,7 @@
         {
             "id": "ae14e072-e960-4cc4-8a32-9e2443d29923",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "SvgSelector",
@@ -2025,7 +2025,7 @@
         {
             "id": "fddcab44-430a-45f8-ad7a-a599e50ae2bc",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -2102,7 +2102,7 @@
         {
             "id": "1bb3805b-12d3-42dc-a0ec-f8feba120c45",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -2165,7 +2165,7 @@
         {
             "id": "0b18382f-4ca8-4810-b3bb-bd552cd006f3",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -2242,7 +2242,7 @@
         {
             "id": "ff8e8042-0b45-4912-ad20-96e3cbdc2b8c",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -2305,7 +2305,7 @@
         {
             "id": "e0b0ffd5-0a5e-458a-a23a-496c0d421959",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -2382,7 +2382,7 @@
         {
             "id": "e23dc677-632f-4cd4-8307-5a9491c3b0d0",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -2445,7 +2445,7 @@
         {
             "id": "40ed8999-ebd3-4a8e-a654-8891a86412ed",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -2522,7 +2522,7 @@
         {
             "id": "9e51f4f9-0363-42f7-9f87-c0ea926bd30a",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -2585,7 +2585,7 @@
         {
             "id": "19bc7ce5-ad66-4573-9cfb-8fefeae53d14",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -2662,7 +2662,7 @@
         {
             "id": "575899dc-e6de-4981-8211-27edbc6692bc",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -2725,7 +2725,7 @@
         {
             "id": "05508b29-c41d-4852-a908-c1d326152b22",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -2802,7 +2802,7 @@
         {
             "id": "c6f5af28-1915-445f-b0b1-9a8364b46dd5",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -2888,7 +2888,7 @@
         {
             "id": "0fa90997-57c6-474d-827c-9d6127ca5bf3",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -2965,7 +2965,7 @@
         {
             "id": "71a87bc5-ca79-4c86-b644-46b227da717d",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -3070,7 +3070,7 @@
         {
             "id": "ee894af8-ec1f-4425-bc18-bc20fbfa63fe",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -3147,7 +3147,7 @@
         {
             "id": "42b0f760-a01a-4378-a383-f633dc138030",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -3224,7 +3224,7 @@
         {
             "id": "65ecb916-24b0-406f-8710-1bc007d32e91",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -3301,7 +3301,7 @@
         {
             "id": "e3197fc7-533b-4a51-9140-d7b7c3cfbf6f",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -3378,7 +3378,7 @@
         {
             "id": "7a148bda-e055-401a-ae12-9b5f0cc946cc",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -3455,7 +3455,7 @@
         {
             "id": "00ed8583-855b-438d-b948-b22f87f574b5",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
@@ -3532,7 +3532,7 @@
         {
             "id": "48b0be48-7439-45b2-8bdf-6346a8e2fdfb",
             "target": {
-            "source": "https://iiif.lib.harvard.edu/manifests/ids:24146534/canvas/canvas-24146534.json",
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
             "type": "SpecificResource",
             "selector": {
                 "type": "FragmentSelector",
