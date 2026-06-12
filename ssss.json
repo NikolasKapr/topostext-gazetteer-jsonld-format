@@ -1,0 +1,130 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/manifest",
+  "type": "Manifest",
+  "behavior": [
+    "individuals"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Title"
+        ]
+      },
+      "value": {
+        "none": [
+          "Charta tes Hellados"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "none": [
+          "Regas Velestinles"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "none": [
+      "Charta tes Hellados 1797"
+    ]
+  },
+  "summary": {
+    "none": [
+      "Historical Map of Greece"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://mps.lib.harvard.edu/assets/images/drs:24146534/full/,250/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "service": [
+        {
+          "@id": "https://mps.lib.harvard.edu/assets/images/drs:24146534",
+          "@type": "ImageService2",
+          "profile": "level2",
+          "protocol": "http://iiif.io/api/image"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
+      "type": "Canvas",
+      "height": 26902,
+      "width": 27207,
+      "label": {
+        "none": [
+          "Image 1"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://mps.lib.harvard.edu/assets/images/drs:24146534/full/,250/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@id": "https://mps.lib.harvard.edu/assets/images/drs:24146534",
+              "@type": "ImageService2",
+              "profile": "level2",
+              "protocol": "http://iiif.io/api/image"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/277",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
+              "body": {
+                "id": "https://mps.lib.harvard.edu/assets/images/drs:24146534/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 26902,
+                "width": 27207,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://mps.lib.harvard.edu/assets/images/drs:24146534",
+                    "@type": "ImageService2",
+                    "profile": "level2",
+                    "protocol": "http://iiif.io/api/image"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "d40ad04c-8043-41fe-bdee-2c5a942fe4ce",
+          "target": {
+            "source": "https://digitalcollections.willamette.edu/server/iiif/harvard-map-fixed/canvas/c0",
+            "type": "SpecificResource",
+            "selector": {
+              "type": "FragmentSelector",
+              "conformsTo": "http://www.w3.org/TR/media-frags/",
+              "value": "xywh=pixel:19058.85900035934,24797.070695635954,56.65492405041368,50.388538046256144"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
