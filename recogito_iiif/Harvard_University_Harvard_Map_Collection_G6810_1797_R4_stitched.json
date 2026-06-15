@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://digitalcollections.edu/server/iiif/harvard-map-fixed/manifest",
+  "id": "https://mps.lib.harvard.edu/iiif/2/URN-3:FHCL:4853472",
   "type": "Manifest",
   "behavior": [
     "individuals"
@@ -58,7 +58,7 @@
   ],
   "items": [
     {
-      "id": "https://digitalcollections.edu/server/iiif/harvard-map-fixed/canvas/c0",
+      "id": "https://mps.lib.harvard.edu/iiif/2/URN-3:FHCL:4853472",
       "type": "Canvas",
       "height": 26902,
       "width": 27207,
@@ -84,14 +84,14 @@
       ],
       "items": [
         {
-          "id": "https://digitalcollections.edu/server/iiif/harvard-map-fixed/canvas/c0/annotation-page",
+          "id": "https://mps.lib.harvard.edu/iiif/2/URN-3:FHCL:4853472",
           "type": "AnnotationPage",
           "items": [
             {
               "id": "http://example.org/oa:Annotation/277",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://digitalcollections.edu/server/iiif/harvard-map-fixed/canvas/c0",
+              "target": "https://mps.lib.harvard.edu/iiif/2/URN-3:FHCL:4853472",
               "body": {
                 "id": "https://mps.lib.harvard.edu/assets/images/drs:24146534/full/full/0/default.jpg",
                 "type": "Image",
