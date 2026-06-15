@@ -161,7 +161,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q28721684",
                 "properties": {
@@ -228,7 +228,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q130650",
                 "properties": {
@@ -287,7 +287,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q1091243",
                 "properties": {
@@ -346,7 +346,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q12899460",
                 "properties": {
@@ -650,7 +650,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q178850",
                 "properties": {
@@ -838,7 +838,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q11918833",
                 "properties": {
@@ -913,7 +913,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q844930",
                 "properties": {
@@ -997,7 +997,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q3737100",
                 "properties": {
@@ -2476,7 +2476,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q1754455",
                 "properties": {
@@ -2569,7 +2569,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q2047396",
                 "properties": {
@@ -2626,7 +2626,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q1160195",
                 "properties": {
@@ -2755,7 +2755,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q173527",
                 "properties": {
@@ -2865,7 +2865,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q23168",
                 "properties": {
@@ -2962,7 +2962,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -3030,7 +3030,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q998805",
                 "properties": {
@@ -3077,7 +3077,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "score": 1,
@@ -3412,7 +3412,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "score": 18.244644,
@@ -3565,7 +3565,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "score": 17.847408,
@@ -3963,7 +3963,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q3633049",
                 "properties": {
@@ -4019,7 +4019,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "score": 17.134144,
@@ -4121,7 +4121,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q202422",
                 "properties": {
@@ -4196,7 +4196,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "id": "http://www.wikidata.org/entity/Q178850",
                 "properties": {
@@ -4283,7 +4283,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -4492,7 +4492,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -4539,7 +4539,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -5009,7 +5009,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -5209,7 +5209,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -5276,7 +5276,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -5332,7 +5332,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -5489,7 +5489,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -5565,7 +5565,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -5631,7 +5631,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -5813,7 +5813,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -5914,7 +5914,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -6327,7 +6327,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -6384,7 +6384,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -6463,7 +6463,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -6890,7 +6890,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -6989,7 +6989,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -7065,7 +7065,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
@@ -7347,7 +7347,7 @@
                 "id": "user_fake_ID",
                 "name": "Anonymous"
               },
-              "purpose": "geotagging",
+              "purpose": "tagging",
               "value": {
                 "type": "Feature",
                 "properties": {
