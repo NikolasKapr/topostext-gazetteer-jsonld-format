@@ -131,7 +131,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:38:06.259Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -140,7 +140,7 @@
             {
               "created": "2025-03-20T16:39:30.950Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -149,7 +149,7 @@
             {
               "created": "2025-03-20T16:39:39.286Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -158,7 +158,7 @@
             {
               "created": "2025-03-20T16:41:02.914Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -181,7 +181,7 @@
             {
               "created": "2025-03-20T16:41:06.403Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -192,7 +192,7 @@
             {
               "created": "2025-03-20T17:10:33.024Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -216,7 +216,7 @@
           "type": "Annotation",
           "created": "2025-03-20T10:37:43.605Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -225,7 +225,7 @@
             {
               "created": "2025-03-20T10:40:19.005Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -241,7 +241,7 @@
             {
               "created": "2025-03-20T15:37:18.554Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -250,7 +250,7 @@
             {
               "created": "2025-03-20T15:37:28.182Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -275,7 +275,7 @@
           "type": "Annotation",
           "created": "2025-03-20T10:41:37.701Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -284,7 +284,7 @@
             {
               "created": "2025-03-20T10:42:39.931Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -300,7 +300,7 @@
             {
               "created": "2025-03-20T14:03:38.639Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -309,7 +309,7 @@
             {
               "created": "2025-03-20T10:42:46.011Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -334,7 +334,7 @@
           "type": "Annotation",
           "created": "2025-03-20T10:48:59.782Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -343,7 +343,7 @@
             {
               "created": "2025-03-20T10:50:35.438Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -359,7 +359,7 @@
             {
               "created": "2025-03-20T10:50:41.294Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -370,7 +370,7 @@
             {
               "created": "2025-03-20T11:03:25.101Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -393,7 +393,7 @@
           "type": "Annotation",
           "created": "2025-03-20T11:10:00.270Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -402,7 +402,7 @@
             {
               "created": "2025-03-20T11:10:08.906Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -411,7 +411,7 @@
             {
               "created": "2025-03-20T15:39:07.375Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -422,7 +422,7 @@
             {
               "created": "2025-03-20T17:14:02.211Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -446,7 +446,7 @@
           "type": "Annotation",
           "created": "2025-03-20T13:43:49.530Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -455,7 +455,7 @@
             {
               "created": "2025-03-20T15:28:50.225Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -464,7 +464,7 @@
             {
               "created": "2025-03-20T14:00:03.292Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -475,7 +475,7 @@
             {
               "created": "2025-03-20T17:29:21.624Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -498,7 +498,7 @@
           "type": "Annotation",
           "created": "2025-03-20T14:06:28.242Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -507,7 +507,7 @@
             {
               "created": "2025-03-20T14:10:22.406Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -516,7 +516,7 @@
             {
               "created": "2025-03-20T14:10:31.277Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -525,7 +525,7 @@
             {
               "created": "2025-03-20T14:11:33.091Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -534,7 +534,7 @@
             {
               "created": "2025-03-20T15:32:10.959Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -545,7 +545,7 @@
             {
               "created": "2025-03-20T17:19:19.939Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -554,7 +554,7 @@
             {
               "created": "2025-03-20T17:19:24.404Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -577,7 +577,7 @@
           "type": "Annotation",
           "created": "2025-03-20T15:33:29.507Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -586,7 +586,7 @@
             {
               "created": "2025-03-20T15:34:07.678Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -595,7 +595,7 @@
             {
               "created": "2025-03-20T15:34:48.226Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -604,7 +604,7 @@
             {
               "created": "2025-03-20T15:38:42.611Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -615,7 +615,7 @@
             {
               "created": "2025-03-20T17:09:57.687Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -638,7 +638,7 @@
           "type": "Annotation",
           "created": "2025-03-20T15:49:02.645Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -647,7 +647,7 @@
             {
               "created": "2025-03-20T15:50:49.858Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -670,7 +670,7 @@
             {
               "created": "2025-03-20T15:51:06.771Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -681,7 +681,7 @@
             {
               "created": "2025-03-20T16:44:27.445Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -690,7 +690,7 @@
             {
               "created": "2025-03-20T16:44:59.076Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -713,7 +713,7 @@
           "type": "Annotation",
           "created": "2025-03-20T15:51:28.338Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -722,7 +722,7 @@
             {
               "created": "2025-03-20T15:52:19.978Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -731,7 +731,7 @@
             {
               "created": "2025-03-20T15:52:32.356Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -740,7 +740,7 @@
             {
               "created": "2025-03-20T15:52:40.403Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -765,7 +765,7 @@
           "type": "Annotation",
           "created": "2025-03-20T15:52:58.674Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -774,7 +774,7 @@
             {
               "created": "2025-03-20T15:53:21.106Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -783,7 +783,7 @@
             {
               "created": "2025-03-20T15:53:31.310Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -792,7 +792,7 @@
             {
               "created": "2025-03-20T15:53:51.555Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -817,7 +817,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:05:46.173Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -826,7 +826,7 @@
             {
               "created": "2025-03-20T16:07:33.757Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -835,7 +835,7 @@
             {
               "created": "2025-03-20T17:08:45.229Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -858,7 +858,7 @@
             {
               "created": "2025-03-20T17:08:52.075Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -869,7 +869,7 @@
             {
               "created": "2025-03-20T17:20:48.811Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -892,7 +892,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:08:51.035Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -901,7 +901,7 @@
             {
               "created": "2025-03-20T16:09:41.417Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -910,7 +910,7 @@
             {
               "created": "2025-03-20T16:10:27.589Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -933,7 +933,7 @@
             {
               "created": "2025-03-20T16:10:31.812Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -944,7 +944,7 @@
             {
               "created": "2025-03-20T17:21:06.006Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -953,7 +953,7 @@
             {
               "created": "2025-12-18T23:10:15.734Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -976,7 +976,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:15:45.726Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -985,7 +985,7 @@
             {
               "created": "2025-03-20T16:20:00.170Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -994,7 +994,7 @@
             {
               "created": "2025-03-20T16:20:39.859Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -1010,7 +1010,7 @@
             {
               "created": "2025-03-20T17:07:18.398Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1035,7 +1035,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:21:43.213Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1044,7 +1044,7 @@
             {
               "created": "2025-03-20T16:22:44.186Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1055,7 +1055,7 @@
             {
               "created": "2025-03-20T17:06:26.531Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1064,7 +1064,7 @@
             {
               "created": "2025-03-20T17:06:28.960Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1073,7 +1073,7 @@
             {
               "created": "2025-03-20T17:06:32.007Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1096,7 +1096,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:23:14.423Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1105,7 +1105,7 @@
             {
               "created": "2025-03-20T16:23:42.995Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1116,7 +1116,7 @@
             {
               "created": "2025-03-20T17:06:04.160Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1125,7 +1125,7 @@
             {
               "created": "2025-03-20T17:06:06.450Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1134,7 +1134,7 @@
             {
               "created": "2025-03-20T17:06:09.552Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1158,7 +1158,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:24:20.760Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1167,7 +1167,7 @@
             {
               "created": "2025-03-20T16:24:38.322Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1176,7 +1176,7 @@
             {
               "created": "2025-03-20T16:24:59.363Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1201,7 +1201,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:25:38.348Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1210,7 +1210,7 @@
             {
               "created": "2025-03-20T16:25:50.629Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1219,7 +1219,7 @@
             {
               "created": "2025-03-20T16:26:22.918Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1230,7 +1230,7 @@
             {
               "created": "2025-03-20T16:45:33.426Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1239,7 +1239,7 @@
             {
               "created": "2025-03-20T16:45:39.363Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1262,7 +1262,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:26:38.841Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1271,7 +1271,7 @@
             {
               "created": "2025-03-20T16:26:52.993Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1280,7 +1280,7 @@
             {
               "created": "2025-03-20T16:27:16.044Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1305,7 +1305,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:27:32.685Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1314,7 +1314,7 @@
             {
               "created": "2025-03-20T16:27:46.143Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1323,7 +1323,7 @@
             {
               "created": "2025-03-20T16:27:51.982Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1334,7 +1334,7 @@
             {
               "created": "2025-03-20T16:45:56.436Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1343,7 +1343,7 @@
             {
               "created": "2025-03-20T16:46:01.570Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1366,7 +1366,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:28:54.109Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1375,7 +1375,7 @@
             {
               "created": "2025-03-20T16:29:04.734Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1384,7 +1384,7 @@
             {
               "created": "2025-03-20T16:29:19.010Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1395,7 +1395,7 @@
             {
               "created": "2025-03-20T16:46:24.248Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1404,7 +1404,7 @@
             {
               "created": "2025-03-20T16:46:28.569Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1427,7 +1427,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:29:38.502Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1436,7 +1436,7 @@
             {
               "created": "2025-03-20T16:29:49.250Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1445,7 +1445,7 @@
             {
               "created": "2025-03-20T16:30:00.912Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1470,7 +1470,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:30:13.270Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1479,7 +1479,7 @@
             {
               "created": "2025-03-20T16:30:22.469Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1488,7 +1488,7 @@
             {
               "created": "2025-03-20T16:30:34.700Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1499,7 +1499,7 @@
             {
               "created": "2025-03-20T16:46:42.696Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1508,7 +1508,7 @@
             {
               "created": "2025-03-20T16:46:47.590Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1531,7 +1531,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:30:54.105Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1540,7 +1540,7 @@
             {
               "created": "2025-03-20T16:31:05.625Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1549,7 +1549,7 @@
             {
               "created": "2025-03-20T16:31:12.175Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1560,7 +1560,7 @@
             {
               "created": "2025-03-20T16:47:15.561Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1569,7 +1569,7 @@
             {
               "created": "2025-03-20T16:47:19.492Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1592,7 +1592,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:31:56.019Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1601,7 +1601,7 @@
             {
               "created": "2025-03-20T16:32:09.374Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1610,7 +1610,7 @@
             {
               "created": "2025-03-20T16:32:15.763Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1621,7 +1621,7 @@
             {
               "created": "2025-03-20T16:47:35.647Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1630,7 +1630,7 @@
             {
               "created": "2025-03-20T16:47:39.051Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1653,7 +1653,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:32:24.101Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1662,7 +1662,7 @@
             {
               "created": "2025-03-20T16:32:32.612Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1671,7 +1671,7 @@
             {
               "created": "2025-03-20T16:32:38.907Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1682,7 +1682,7 @@
             {
               "created": "2025-03-20T16:47:52.449Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1691,7 +1691,7 @@
             {
               "created": "2025-03-20T16:47:55.772Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1714,7 +1714,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:33:12.644Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1723,7 +1723,7 @@
             {
               "created": "2025-03-20T16:33:27.323Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1732,7 +1732,7 @@
             {
               "created": "2025-03-20T16:33:40.533Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1743,7 +1743,7 @@
             {
               "created": "2025-03-20T16:48:09.055Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1752,7 +1752,7 @@
             {
               "created": "2025-03-20T16:48:14.516Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1775,7 +1775,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:34:10.660Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1784,7 +1784,7 @@
             {
               "created": "2025-03-20T16:34:18.431Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1793,7 +1793,7 @@
             {
               "created": "2025-03-20T16:34:26.149Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1804,7 +1804,7 @@
             {
               "created": "2025-03-20T16:48:31.450Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1813,7 +1813,7 @@
             {
               "created": "2025-03-20T16:48:34.432Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1836,7 +1836,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:34:35.529Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1845,7 +1845,7 @@
             {
               "created": "2025-03-20T16:34:43.325Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1854,7 +1854,7 @@
             {
               "created": "2025-03-20T16:34:49.780Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1865,7 +1865,7 @@
             {
               "created": "2025-03-20T16:48:50.190Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1874,7 +1874,7 @@
             {
               "created": "2025-03-20T16:48:53.057Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1897,7 +1897,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:35:12.172Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1906,7 +1906,7 @@
             {
               "created": "2025-03-20T16:35:21.072Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1915,7 +1915,7 @@
             {
               "created": "2025-03-20T16:35:28.877Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1926,7 +1926,7 @@
             {
               "created": "2025-03-20T16:50:25.227Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1935,7 +1935,7 @@
             {
               "created": "2025-03-20T16:50:32.356Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1958,7 +1958,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:35:54.171Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -1967,7 +1967,7 @@
             {
               "created": "2025-03-20T16:36:00.476Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1976,7 +1976,7 @@
             {
               "created": "2025-03-20T16:36:06.767Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -1987,7 +1987,7 @@
             {
               "created": "2025-03-20T16:50:48.741Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -1996,7 +1996,7 @@
             {
               "created": "2025-03-20T16:50:52.135Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2019,7 +2019,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:36:15.054Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -2028,7 +2028,7 @@
             {
               "created": "2025-03-20T16:36:21.607Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2037,7 +2037,7 @@
             {
               "created": "2025-03-20T16:36:26.187Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -2048,7 +2048,7 @@
             {
               "created": "2025-03-20T16:52:08.766Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2057,7 +2057,7 @@
             {
               "created": "2025-03-20T16:52:14.958Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2080,7 +2080,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:36:32.757Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -2089,7 +2089,7 @@
             {
               "created": "2025-03-20T16:36:40.639Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2098,7 +2098,7 @@
             {
               "created": "2025-03-20T16:36:46.592Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -2109,7 +2109,7 @@
             {
               "created": "2025-03-20T16:54:48.251Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2118,7 +2118,7 @@
             {
               "created": "2025-03-20T16:55:05.108Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2141,7 +2141,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:36:58.842Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -2150,7 +2150,7 @@
             {
               "created": "2025-03-20T16:37:06.932Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2159,7 +2159,7 @@
             {
               "created": "2025-03-20T16:37:12.415Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -2170,7 +2170,7 @@
             {
               "created": "2025-03-20T16:55:24.725Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2179,7 +2179,7 @@
             {
               "created": "2025-03-20T16:55:28.459Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2202,7 +2202,7 @@
           "type": "Annotation",
           "created": "2025-03-20T16:42:14.505Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -2211,7 +2211,7 @@
             {
               "created": "2025-03-20T17:02:52.356Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -2222,7 +2222,7 @@
             {
               "created": "2025-03-20T17:05:33.176Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2231,7 +2231,7 @@
             {
               "created": "2025-03-20T17:05:35.420Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2240,7 +2240,7 @@
             {
               "created": "2025-03-20T17:05:38.319Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2263,7 +2263,7 @@
           "type": "Annotation",
           "created": "2025-03-20T17:00:43.502Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -2272,7 +2272,7 @@
             {
               "created": "2025-03-20T17:01:45.017Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -2283,7 +2283,7 @@
             {
               "created": "2025-03-20T17:05:14.067Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2292,7 +2292,7 @@
             {
               "created": "2025-03-20T17:05:16.039Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2301,7 +2301,7 @@
             {
               "created": "2025-03-20T17:05:18.050Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2324,7 +2324,7 @@
           "type": "Annotation",
           "created": "2025-03-20T17:03:07.766Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -2333,7 +2333,7 @@
             {
               "created": "2025-03-20T17:03:19.683Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -2344,7 +2344,7 @@
             {
               "created": "2025-03-20T17:04:46.226Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2353,7 +2353,7 @@
             {
               "created": "2025-03-20T17:04:48.290Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2362,7 +2362,7 @@
             {
               "created": "2025-03-20T17:04:52.050Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2385,7 +2385,7 @@
           "type": "Annotation",
           "created": "2025-03-20T17:03:32.919Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -2394,7 +2394,7 @@
             {
               "created": "2025-03-20T17:03:46.131Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -2405,7 +2405,7 @@
             {
               "created": "2025-03-20T17:04:21.878Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2414,7 +2414,7 @@
             {
               "created": "2025-03-20T17:04:24.867Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2423,7 +2423,7 @@
             {
               "created": "2025-03-20T17:04:30.151Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2446,7 +2446,7 @@
           "type": "Annotation",
           "created": "2025-03-20T17:24:24.942Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -2455,7 +2455,7 @@
             {
               "created": "2025-03-20T17:25:32.436Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2464,7 +2464,7 @@
             {
               "created": "2025-03-20T17:25:39.814Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2473,7 +2473,7 @@
             {
               "created": "2025-03-20T17:26:19.927Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -2496,7 +2496,7 @@
             {
               "created": "2025-03-20T17:26:25.854Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -2521,7 +2521,7 @@
           "type": "Annotation",
           "created": "2025-03-20T17:32:27.186Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -2530,7 +2530,7 @@
             {
               "created": "2025-03-20T17:34:37.081Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2539,7 +2539,7 @@
             {
               "created": "2025-03-20T17:34:52.507Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2548,7 +2548,7 @@
             {
               "created": "2025-03-20T17:35:00.973Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2557,7 +2557,7 @@
             {
               "created": "2025-03-20T17:35:32.391Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2566,7 +2566,7 @@
             {
               "created": "2025-03-20T17:36:03.662Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -2589,7 +2589,7 @@
             {
               "created": "2025-03-20T17:36:31.481Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -2614,7 +2614,7 @@
           "type": "Annotation",
           "created": "2025-03-20T17:42:14.151Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -2623,7 +2623,7 @@
             {
               "created": "2025-03-20T17:47:53.983Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -2646,7 +2646,7 @@
             {
               "created": "2025-03-20T17:45:58.073Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2655,7 +2655,7 @@
             {
               "created": "2025-03-20T17:46:05.105Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2664,7 +2664,7 @@
             {
               "created": "2025-03-20T17:46:17.753Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2673,7 +2673,7 @@
             {
               "created": "2025-03-20T17:47:56.372Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -2698,7 +2698,7 @@
           "type": "Annotation",
           "created": "2025-03-20T18:04:36.082Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -2707,7 +2707,7 @@
             {
               "created": "2025-03-20T18:05:15.725Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2716,7 +2716,7 @@
             {
               "created": "2025-03-20T18:05:33.245Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2725,7 +2725,7 @@
             {
               "created": "2025-03-20T18:05:38.338Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2734,7 +2734,7 @@
             {
               "created": "2025-03-20T18:05:43.281Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2743,7 +2743,7 @@
             {
               "created": "2025-03-20T18:05:58.416Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2752,7 +2752,7 @@
             {
               "created": "2025-03-20T18:06:22.022Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -2775,7 +2775,7 @@
             {
               "created": "2025-03-20T18:06:26.590Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -2800,7 +2800,7 @@
           "type": "Annotation",
           "created": "2025-03-20T18:06:41.751Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -2809,7 +2809,7 @@
             {
               "created": "2025-03-20T18:12:09.607Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2818,7 +2818,7 @@
             {
               "created": "2025-03-20T18:12:32.850Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -2844,7 +2844,7 @@
           "type": "Annotation",
           "created": "2025-03-20T18:12:41.436Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -2853,7 +2853,7 @@
             {
               "created": "2025-03-20T18:13:25.478Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2862,7 +2862,7 @@
             {
               "created": "2025-03-20T18:13:36.945Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -2878,7 +2878,7 @@
             {
               "created": "2025-03-20T18:13:40.700Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -2903,7 +2903,7 @@
           "type": "Annotation",
           "created": "2025-03-20T18:52:25.627Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -2912,7 +2912,7 @@
             {
               "created": "2025-03-20T18:53:45.402Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2921,7 +2921,7 @@
             {
               "created": "2025-03-20T18:54:44.146Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2930,7 +2930,7 @@
             {
               "created": "2025-03-20T18:54:48.470Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2939,7 +2939,7 @@
             {
               "created": "2025-03-20T19:06:29.844Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -2948,7 +2948,7 @@
             {
               "created": "2025-03-20T19:07:10.943Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -2959,7 +2959,7 @@
             {
               "created": "2025-03-20T19:09:54.448Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -2998,7 +2998,7 @@
           "type": "Annotation",
           "created": "2025-03-20T19:10:32.662Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3007,7 +3007,7 @@
             {
               "created": "2025-03-20T19:10:41.847Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3016,7 +3016,7 @@
             {
               "created": "2025-03-20T19:12:01.331Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -3027,7 +3027,7 @@
             {
               "created": "2025-03-20T19:12:50.623Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -3065,7 +3065,7 @@
           "type": "Annotation",
           "created": "2025-04-09T18:55:12.134Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3074,7 +3074,7 @@
             {
               "created": "2025-04-09T18:55:32.642Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -3148,7 +3148,7 @@
           "type": "Annotation",
           "created": "2025-04-27T16:48:03.142Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3157,7 +3157,7 @@
             {
               "created": "2025-04-27T16:56:39.029Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -3168,7 +3168,7 @@
             {
               "created": "2025-04-27T19:42:48.535Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3191,7 +3191,7 @@
           "type": "Annotation",
           "created": "2025-04-27T16:59:46.062Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3200,7 +3200,7 @@
             {
               "created": "2025-04-27T17:00:44.287Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -3225,7 +3225,7 @@
           "type": "Annotation",
           "created": "2025-04-27T17:04:17.746Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3234,7 +3234,7 @@
             {
               "created": "2025-04-27T17:04:31.613Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -3259,7 +3259,7 @@
           "type": "Annotation",
           "created": "2025-04-27T17:11:45.647Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3268,7 +3268,7 @@
             {
               "created": "2025-04-27T17:15:21.531Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3277,7 +3277,7 @@
             {
               "created": "2025-04-27T17:15:26.412Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3300,7 +3300,7 @@
           "type": "Annotation",
           "created": "2025-04-27T17:16:41.202Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3309,7 +3309,7 @@
             {
               "created": "2025-04-27T17:19:13.802Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3318,7 +3318,7 @@
             {
               "created": "2025-04-27T17:19:20.718Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3341,7 +3341,7 @@
           "type": "Annotation",
           "created": "2025-04-27T17:22:02.622Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3350,7 +3350,7 @@
             {
               "created": "2025-04-27T17:22:20.081Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3359,7 +3359,7 @@
             {
               "created": "2025-04-27T17:22:24.666Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3382,7 +3382,7 @@
           "type": "Annotation",
           "created": "2025-04-27T17:23:32.387Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3391,7 +3391,7 @@
             {
               "created": "2025-04-27T17:23:51.513Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3400,7 +3400,7 @@
             {
               "created": "2025-04-27T17:23:56.375Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3409,7 +3409,7 @@
             {
               "created": "2025-04-27T17:24:58.036Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -3510,7 +3510,7 @@
             {
               "created": "2025-04-27T17:45:57.141Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -3535,7 +3535,7 @@
           "type": "Annotation",
           "created": "2025-04-27T18:17:33.432Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3544,7 +3544,7 @@
             {
               "created": "2025-04-27T18:20:57.585Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3553,7 +3553,7 @@
             {
               "created": "2025-04-27T18:21:00.265Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3562,7 +3562,7 @@
             {
               "created": "2025-04-27T18:22:05.233Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -3618,7 +3618,7 @@
             {
               "created": "2025-04-27T18:22:33.627Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -3643,7 +3643,7 @@
           "type": "Annotation",
           "created": "2025-04-27T18:42:44.477Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3652,7 +3652,7 @@
             {
               "created": "2025-04-27T18:43:56.159Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -3663,7 +3663,7 @@
             {
               "created": "2025-04-27T18:44:33.787Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3672,7 +3672,7 @@
             {
               "created": "2025-04-27T18:44:39.540Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3681,7 +3681,7 @@
             {
               "created": "2025-04-27T18:46:27.896Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -3706,7 +3706,7 @@
           "type": "Annotation",
           "created": "2025-04-27T18:47:35.013Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3715,7 +3715,7 @@
             {
               "created": "2025-04-27T18:47:55.984Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -3726,7 +3726,7 @@
             {
               "created": "2025-04-27T18:48:18.945Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3749,7 +3749,7 @@
           "type": "Annotation",
           "created": "2025-04-27T18:48:43.212Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3758,7 +3758,7 @@
             {
               "created": "2025-04-27T18:49:12.911Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3767,7 +3767,7 @@
             {
               "created": "2025-04-27T18:49:14.619Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -3792,7 +3792,7 @@
           "type": "Annotation",
           "created": "2025-04-27T18:49:40.309Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3801,7 +3801,7 @@
             {
               "created": "2025-04-27T18:50:07.177Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -3812,7 +3812,7 @@
             {
               "created": "2025-04-27T18:50:29.950Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3835,7 +3835,7 @@
           "type": "Annotation",
           "created": "2025-04-27T18:52:24.711Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3844,7 +3844,7 @@
             {
               "created": "2025-04-27T18:52:53.125Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3853,7 +3853,7 @@
             {
               "created": "2025-04-27T18:52:54.870Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -3878,7 +3878,7 @@
           "type": "Annotation",
           "created": "2025-04-27T18:55:02.373Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3887,7 +3887,7 @@
             {
               "created": "2025-04-27T18:56:26.057Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -3898,7 +3898,7 @@
             {
               "created": "2025-04-27T18:56:53.507Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3907,7 +3907,7 @@
             {
               "created": "2025-04-27T18:57:07.764Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3931,7 +3931,7 @@
           "type": "Annotation",
           "created": "2025-12-17T10:28:10.029Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -3940,7 +3940,7 @@
             {
               "created": "2025-12-17T10:29:15.698Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -3949,7 +3949,7 @@
             {
               "created": "2025-12-17T10:31:12.349Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -3960,7 +3960,7 @@
             {
               "created": "2025-12-17T12:38:10.671Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -3998,7 +3998,7 @@
           "type": "Annotation",
           "created": "2025-12-17T12:34:03.000Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4007,7 +4007,7 @@
             {
               "created": "2025-12-17T12:34:44.225Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4016,7 +4016,7 @@
             {
               "created": "2025-12-17T12:36:22.000Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -4074,7 +4074,7 @@
             {
               "created": "2025-12-17T12:36:29.062Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4100,7 +4100,7 @@
           "type": "Annotation",
           "created": "2025-12-17T12:38:55.673Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4109,7 +4109,7 @@
             {
               "created": "2025-12-17T12:39:24.326Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4118,7 +4118,7 @@
             {
               "created": "2025-12-17T12:40:38.281Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -4141,7 +4141,7 @@
             {
               "created": "2025-12-17T12:40:41.550Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4166,7 +4166,7 @@
           "type": "Annotation",
           "created": "2025-12-17T12:41:39.340Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4175,7 +4175,7 @@
             {
               "created": "2025-12-17T12:42:03.703Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4184,7 +4184,7 @@
             {
               "created": "2025-12-17T12:42:12.278Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4193,7 +4193,7 @@
             {
               "created": "2025-12-17T12:42:26.758Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -4216,7 +4216,7 @@
             {
               "created": "2025-12-17T12:42:30.566Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4242,7 +4242,7 @@
           "type": "Annotation",
           "created": "2025-12-17T12:42:43.494Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4251,7 +4251,7 @@
             {
               "created": "2025-12-17T12:42:59.789Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4260,7 +4260,7 @@
             {
               "created": "2025-12-17T12:43:05.382Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4269,7 +4269,7 @@
             {
               "created": "2025-12-17T12:43:35.407Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4280,7 +4280,7 @@
             {
               "created": "2025-12-17T12:47:20.082Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -4319,7 +4319,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:25:36.077Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4328,7 +4328,7 @@
             {
               "created": "2025-12-18T22:26:03.469Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4337,7 +4337,7 @@
             {
               "created": "2025-12-18T22:26:09.479Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4363,7 +4363,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:26:24.301Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4372,7 +4372,7 @@
             {
               "created": "2025-12-18T22:26:51.520Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4381,7 +4381,7 @@
             {
               "created": "2025-12-18T22:27:00.698Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4390,7 +4390,7 @@
             {
               "created": "2025-12-18T22:27:03.617Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4416,7 +4416,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:27:18.913Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4425,7 +4425,7 @@
             {
               "created": "2025-12-18T22:27:39.767Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4434,7 +4434,7 @@
             {
               "created": "2025-12-18T22:27:43.500Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4460,7 +4460,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:28:12.571Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4469,7 +4469,7 @@
             {
               "created": "2025-12-18T22:28:45.329Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4478,7 +4478,7 @@
             {
               "created": "2025-12-18T22:28:51.245Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4489,7 +4489,7 @@
             {
               "created": "2025-12-18T22:31:21.626Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -4527,7 +4527,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:32:12.897Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4536,7 +4536,7 @@
             {
               "created": "2025-12-18T22:33:11.704Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -4560,7 +4560,7 @@
             {
               "created": "2025-12-18T22:33:30.735Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4585,7 +4585,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:33:46.284Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4594,7 +4594,7 @@
             {
               "created": "2025-12-18T22:34:02.954Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4603,7 +4603,7 @@
             {
               "created": "2025-12-18T22:38:50.129Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4629,7 +4629,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:39:07.020Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4638,7 +4638,7 @@
             {
               "created": "2025-12-18T22:39:19.673Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4647,7 +4647,7 @@
             {
               "created": "2025-12-18T22:39:22.122Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4673,7 +4673,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:39:27.320Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4682,7 +4682,7 @@
             {
               "created": "2025-12-18T22:39:41.121Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4691,7 +4691,7 @@
             {
               "created": "2025-12-18T22:39:42.145Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4716,7 +4716,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:40:26.537Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4725,7 +4725,7 @@
             {
               "created": "2025-12-18T22:40:45.450Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4734,7 +4734,7 @@
             {
               "created": "2025-12-18T22:40:47.871Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4759,7 +4759,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:41:18.383Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4768,7 +4768,7 @@
             {
               "created": "2025-12-18T22:41:59.058Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4777,7 +4777,7 @@
             {
               "created": "2025-12-18T22:42:02.236Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4803,7 +4803,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:42:48.332Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4812,7 +4812,7 @@
             {
               "created": "2025-12-18T22:43:06.292Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4821,7 +4821,7 @@
             {
               "created": "2025-12-18T22:43:09.072Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4847,7 +4847,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:43:23.135Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4856,7 +4856,7 @@
             {
               "created": "2025-12-18T22:44:30.395Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4865,7 +4865,7 @@
             {
               "created": "2025-12-18T22:44:32.384Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4890,7 +4890,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:44:42.619Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4899,7 +4899,7 @@
             {
               "created": "2025-12-18T22:44:57.967Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4908,7 +4908,7 @@
             {
               "created": "2025-12-18T22:44:59.326Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4933,7 +4933,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:45:21.016Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4942,7 +4942,7 @@
             {
               "created": "2025-12-18T22:45:44.428Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4951,7 +4951,7 @@
             {
               "created": "2025-12-18T22:45:45.751Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -4977,7 +4977,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:46:01.479Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -4986,7 +4986,7 @@
             {
               "created": "2025-12-18T22:46:24.710Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -4995,7 +4995,7 @@
             {
               "created": "2025-12-18T22:46:25.992Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5006,7 +5006,7 @@
             {
               "created": "2025-12-18T22:46:49.084Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -5038,7 +5038,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:48:09.566Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5047,7 +5047,7 @@
             {
               "created": "2025-12-18T22:48:25.427Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5056,7 +5056,7 @@
             {
               "created": "2025-12-18T22:48:29.087Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5065,7 +5065,7 @@
             {
               "created": "2025-12-18T22:48:32.718Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5091,7 +5091,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:48:37.576Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5100,7 +5100,7 @@
             {
               "created": "2025-12-18T22:48:54.222Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5109,7 +5109,7 @@
             {
               "created": "2025-12-18T22:51:11.746Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5135,7 +5135,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:51:18.058Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5144,7 +5144,7 @@
             {
               "created": "2025-12-18T22:51:37.191Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5153,7 +5153,7 @@
             {
               "created": "2025-12-18T22:51:44.769Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5162,7 +5162,7 @@
             {
               "created": "2025-12-18T22:51:47.199Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5188,7 +5188,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:52:03.561Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5197,7 +5197,7 @@
             {
               "created": "2025-12-18T22:53:16.788Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5206,7 +5206,7 @@
             {
               "created": "2025-12-18T22:53:51.033Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -5230,7 +5230,7 @@
             {
               "created": "2025-12-18T22:53:54.633Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5255,7 +5255,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:54:25.485Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5264,7 +5264,7 @@
             {
               "created": "2025-12-18T22:54:46.674Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5273,7 +5273,7 @@
             {
               "created": "2025-12-18T22:55:05.808Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -5311,7 +5311,7 @@
           "type": "Annotation",
           "created": "2025-12-18T22:55:54.032Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5320,7 +5320,7 @@
             {
               "created": "2025-12-18T22:56:08.758Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5329,7 +5329,7 @@
             {
               "created": "2025-12-18T23:00:06.890Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -5353,7 +5353,7 @@
             {
               "created": "2025-12-18T23:00:09.684Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5379,7 +5379,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:00:20.019Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5388,7 +5388,7 @@
             {
               "created": "2025-12-18T23:00:33.200Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5397,7 +5397,7 @@
             {
               "created": "2025-12-18T23:00:34.293Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5422,7 +5422,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:02:23.781Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5431,7 +5431,7 @@
             {
               "created": "2025-12-18T23:02:36.518Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5440,7 +5440,7 @@
             {
               "created": "2025-12-18T23:02:38.511Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5466,7 +5466,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:05:29.540Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5475,7 +5475,7 @@
             {
               "created": "2025-12-18T23:05:43.893Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5486,7 +5486,7 @@
             {
               "created": "2025-12-18T23:06:32.630Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -5510,7 +5510,7 @@
             {
               "created": "2025-12-18T23:09:49.396Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5533,7 +5533,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:06:53.840Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5542,7 +5542,7 @@
             {
               "created": "2025-12-18T23:07:04.217Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5551,7 +5551,7 @@
             {
               "created": "2025-12-18T23:07:05.569Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5562,7 +5562,7 @@
             {
               "created": "2025-12-18T23:07:32.991Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -5601,7 +5601,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:07:47.320Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5610,7 +5610,7 @@
             {
               "created": "2025-12-18T23:08:04.756Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5619,7 +5619,7 @@
             {
               "created": "2025-12-18T23:08:08.588Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5628,7 +5628,7 @@
             {
               "created": "2025-12-18T23:08:44.710Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -5652,7 +5652,7 @@
             {
               "created": "2025-12-18T23:08:52.144Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5661,7 +5661,7 @@
             {
               "created": "2025-12-18T23:08:59.273Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5686,7 +5686,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:11:03.391Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5695,7 +5695,7 @@
             {
               "created": "2025-12-18T23:11:21.455Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5704,7 +5704,7 @@
             {
               "created": "2025-12-18T23:12:01.770Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5729,7 +5729,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:12:12.937Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5738,7 +5738,7 @@
             {
               "created": "2025-12-18T23:12:35.277Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5747,7 +5747,7 @@
             {
               "created": "2025-12-18T23:12:46.840Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5756,7 +5756,7 @@
             {
               "created": "2025-12-18T23:12:48.849Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5781,7 +5781,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:13:01.770Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5790,7 +5790,7 @@
             {
               "created": "2025-12-18T23:13:08.390Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5801,7 +5801,7 @@
             {
               "created": "2025-12-18T23:13:36.177Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5810,7 +5810,7 @@
             {
               "created": "2025-12-18T23:14:08.619Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -5849,7 +5849,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:14:32.348Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5858,7 +5858,7 @@
             {
               "created": "2025-12-18T23:14:45.836Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5867,7 +5867,7 @@
             {
               "created": "2025-12-18T23:14:47.754Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5893,7 +5893,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:15:18.800Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5902,7 +5902,7 @@
             {
               "created": "2025-12-18T23:16:03.196Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5911,7 +5911,7 @@
             {
               "created": "2025-12-18T23:16:27.290Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -5928,7 +5928,7 @@
             {
               "created": "2025-12-18T23:16:30.286Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -5954,7 +5954,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:16:35.720Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -5963,7 +5963,7 @@
             {
               "created": "2025-12-18T23:16:51.228Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5972,7 +5972,7 @@
             {
               "created": "2025-12-18T23:16:58.513Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -5981,7 +5981,7 @@
             {
               "created": "2025-12-18T23:16:59.955Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6007,7 +6007,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:17:09.097Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6016,7 +6016,7 @@
             {
               "created": "2025-12-18T23:17:16.400Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6042,7 +6042,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:17:21.292Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6051,7 +6051,7 @@
             {
               "created": "2025-12-18T23:17:29.085Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6077,7 +6077,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:17:34.317Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6086,7 +6086,7 @@
             {
               "created": "2025-12-18T23:17:39.213Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6112,7 +6112,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:17:48.511Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6121,7 +6121,7 @@
             {
               "created": "2025-12-18T23:17:53.098Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6146,7 +6146,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:18:13.175Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6155,7 +6155,7 @@
             {
               "created": "2025-12-18T23:18:32.048Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -6164,7 +6164,7 @@
             {
               "created": "2025-12-18T23:18:33.205Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6190,7 +6190,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:18:42.833Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6199,7 +6199,7 @@
             {
               "created": "2025-12-18T23:18:54.857Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6225,7 +6225,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:18:58.569Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6234,7 +6234,7 @@
             {
               "created": "2025-12-18T23:19:08.799Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6260,7 +6260,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:19:12.621Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6269,7 +6269,7 @@
             {
               "created": "2025-12-18T23:19:17.221Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6295,7 +6295,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:19:20.266Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6304,7 +6304,7 @@
             {
               "created": "2025-12-18T23:19:28.000Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -6313,7 +6313,7 @@
             {
               "created": "2025-12-18T23:19:29.528Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6324,7 +6324,7 @@
             {
               "created": "2025-12-18T23:20:08.917Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -6363,7 +6363,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:20:20.018Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6372,7 +6372,7 @@
             {
               "created": "2025-12-18T23:20:27.708Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -6381,7 +6381,7 @@
             {
               "created": "2025-12-18T23:20:38.966Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -6405,7 +6405,7 @@
             {
               "created": "2025-12-18T23:20:41.456Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6431,7 +6431,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:20:59.212Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6440,7 +6440,7 @@
             {
               "created": "2025-12-18T23:21:10.798Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -6449,7 +6449,7 @@
             {
               "created": "2025-12-18T23:21:21.945Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6460,7 +6460,7 @@
             {
               "created": "2025-12-18T23:21:19.849Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -6499,7 +6499,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:21:35.529Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6508,7 +6508,7 @@
             {
               "created": "2025-12-18T23:21:41.578Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6534,7 +6534,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:21:45.195Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6543,7 +6543,7 @@
             {
               "created": "2025-12-18T23:21:50.344Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6569,7 +6569,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:21:53.925Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6578,7 +6578,7 @@
             {
               "created": "2025-12-18T23:21:58.765Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6604,7 +6604,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:22:05.231Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6613,7 +6613,7 @@
             {
               "created": "2025-12-18T23:22:11.649Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6638,7 +6638,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:22:26.965Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6647,7 +6647,7 @@
             {
               "created": "2025-12-18T23:22:41.552Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -6656,7 +6656,7 @@
             {
               "created": "2025-12-18T23:23:03.768Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6682,7 +6682,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:23:15.837Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6691,7 +6691,7 @@
             {
               "created": "2025-12-18T23:23:25.696Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6717,7 +6717,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:23:40.625Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6726,7 +6726,7 @@
             {
               "created": "2025-12-18T23:23:50.599Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -6735,7 +6735,7 @@
             {
               "created": "2025-12-18T23:23:57.204Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -6744,7 +6744,7 @@
             {
               "created": "2025-12-18T23:23:58.379Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6770,7 +6770,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:24:04.757Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6779,7 +6779,7 @@
             {
               "created": "2025-12-18T23:24:19.091Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -6788,7 +6788,7 @@
             {
               "created": "2025-12-18T23:24:25.586Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -6797,7 +6797,7 @@
             {
               "created": "2025-12-18T23:24:26.815Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6823,7 +6823,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:24:31.028Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6832,7 +6832,7 @@
             {
               "created": "2025-12-18T23:26:14.629Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -6841,7 +6841,7 @@
             {
               "created": "2025-12-18T23:26:16.230Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6867,7 +6867,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:26:26.060Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6876,7 +6876,7 @@
             {
               "created": "2025-12-18T23:26:40.939Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6887,7 +6887,7 @@
             {
               "created": "2025-12-18T23:30:02.753Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -6925,7 +6925,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:27:14.393Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6934,7 +6934,7 @@
             {
               "created": "2025-12-18T23:28:19.084Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -6943,7 +6943,7 @@
             {
               "created": "2025-12-18T23:29:07.029Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -6968,7 +6968,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:29:20.312Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -6977,7 +6977,7 @@
             {
               "created": "2025-12-18T23:29:30.155Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -6986,7 +6986,7 @@
             {
               "created": "2025-12-18T23:29:41.000Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -7010,7 +7010,7 @@
             {
               "created": "2025-12-18T23:29:43.594Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -7021,7 +7021,7 @@
             {
               "created": "2025-12-18T23:30:35.569Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7044,7 +7044,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:30:58.416Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7053,7 +7053,7 @@
             {
               "created": "2025-12-18T23:31:10.137Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7062,7 +7062,7 @@
             {
               "created": "2025-12-18T23:31:19.612Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -7100,7 +7100,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:31:36.062Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7109,7 +7109,7 @@
             {
               "created": "2025-12-18T23:31:52.210Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7118,7 +7118,7 @@
             {
               "created": "2025-12-18T23:31:58.620Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7127,7 +7127,7 @@
             {
               "created": "2025-12-18T23:32:36.952Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -7152,7 +7152,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:32:43.384Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7161,7 +7161,7 @@
             {
               "created": "2025-12-18T23:33:08.372Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7170,7 +7170,7 @@
             {
               "created": "2025-12-18T23:33:11.272Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -7196,7 +7196,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:33:23.507Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7205,7 +7205,7 @@
             {
               "created": "2025-12-18T23:33:40.903Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7214,7 +7214,7 @@
             {
               "created": "2025-12-18T23:33:48.783Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7238,7 +7238,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:33:55.791Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7247,7 +7247,7 @@
             {
               "created": "2025-12-18T23:34:06.796Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7256,7 +7256,7 @@
             {
               "created": "2025-12-18T23:34:07.893Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -7282,7 +7282,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:34:15.092Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7291,7 +7291,7 @@
             {
               "created": "2025-12-18T23:34:39.818Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7300,7 +7300,7 @@
             {
               "created": "2025-12-18T23:34:40.960Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -7326,7 +7326,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:34:52.203Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7335,7 +7335,7 @@
             {
               "created": "2025-12-18T23:35:05.603Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7344,7 +7344,7 @@
             {
               "created": "2025-12-18T23:35:21.695Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "geotagging",
@@ -7368,7 +7368,7 @@
             {
               "created": "2025-12-18T23:35:23.967Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -7394,7 +7394,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:35:26.894Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7403,7 +7403,7 @@
             {
               "created": "2025-12-18T23:35:37.143Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7412,7 +7412,7 @@
             {
               "created": "2025-12-18T23:35:39.249Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -7438,7 +7438,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:36:28.939Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7447,7 +7447,7 @@
             {
               "created": "2025-12-18T23:36:37.104Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -7473,7 +7473,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:36:44.973Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7482,7 +7482,7 @@
             {
               "created": "2025-12-18T23:36:53.685Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7491,7 +7491,7 @@
             {
               "created": "2025-12-18T23:36:58.577Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -7517,7 +7517,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:37:11.367Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7526,7 +7526,7 @@
             {
               "created": "2025-12-18T23:37:25.307Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7535,7 +7535,7 @@
             {
               "created": "2025-12-18T23:38:59.103Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -7561,7 +7561,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:39:06.694Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7570,7 +7570,7 @@
             {
               "created": "2025-12-18T23:39:18.841Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -7596,7 +7596,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:39:23.409Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7605,7 +7605,7 @@
             {
               "created": "2025-12-18T23:39:29.710Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -7631,7 +7631,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:39:35.556Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7640,7 +7640,7 @@
             {
               "created": "2025-12-18T23:39:48.148Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7649,7 +7649,7 @@
             {
               "created": "2025-12-18T23:39:49.831Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
@@ -7674,7 +7674,7 @@
           "type": "Annotation",
           "created": "2025-12-18T23:40:29.414Z",
           "creator": {
-            "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+            "id": "user_fake_ID",
             "name": "Maria Ilvanidou",
             "avatar": ""
           },
@@ -7683,7 +7683,7 @@
             {
               "created": "2025-12-18T23:41:25.434Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "tagging",
@@ -7692,7 +7692,7 @@
             {
               "created": "2025-12-18T23:41:27.101Z",
               "creator": {
-                "id": "024c48d1-d2cd-421b-af0f-b2f2d0dfeaf7",
+                "id": "user_fake_ID",
                 "name": "Maria Ilvanidou"
               },
               "purpose": "commenting",
