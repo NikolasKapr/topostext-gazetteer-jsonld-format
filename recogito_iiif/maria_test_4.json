@@ -115,7 +115,7 @@
         {
           "id": "389ecadb-6793-4a6e-800d-c05a02370afa",
           "target": {
-            "source": "https://digitalcollections.edu/server/iiif/harvard-map-fixed/canvas/c0",
+            "source": "https://mps.lib.harvard.edu/iiif/2/URN-3:FHCL:4853472",
             "type": "SpecificResource",
             "selector": {
               "type": "SvgSelector",
